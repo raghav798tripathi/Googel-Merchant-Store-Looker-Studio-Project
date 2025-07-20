@@ -1,4 +1,4 @@
-# Looker Studio Dashboard: Global Terrorism Analysis
+# Looker Studio Dashboard: Google merchant store website Analysis
 
 ## 🔗 Dashboard Link:
 [Click to open dashboard]https://lookerstudio.google.com/reporting/95fd171d-cdf7-48f9-a81b-b6195dd9a21d
