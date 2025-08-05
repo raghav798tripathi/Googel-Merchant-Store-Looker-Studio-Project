@@ -7,7 +7,12 @@
 
 ## 📊 Features:
 -Views and Total users over time. 
+<br>
 -Active and New Users over time.
+<br>
 -Age by first session date.
+<br>
 -Sessions over time by page title.
+<br>
 -Heatmaps to compare various fields on basis of countries and session default.
+
