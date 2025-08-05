@@ -14,5 +14,6 @@
 <br>
 -Sessions over time by page title.
 <br>
--Heatmaps to compare various fields on basis of countries and session default.
+-Heatmaps to compare various fields on basis of countries and sessions default.
+
 
